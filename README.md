@@ -1,16 +1,29 @@
-# supabase_practice
+# Supabase Practice
 
-A new Flutter project.
+A Flutter project for practicing Supabase integration.
+
+## About
+
+This project demonstrates the integration of Supabase with Flutter, implementing basic CRUD operations:
+- Create: Add new students
+- Read: Fetch and display student data
+- Update: Modify existing student information
+- Delete: Remove students from the database
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is built with Flutter and uses Supabase as the backend.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
+- Flutter SDK
+- Supabase account and project setup
 
+### Resources
+
+For help getting started with Flutter development:
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter online documentation](https://docs.flutter.dev/)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For Supabase documentation:
+- [Supabase Flutter Guide](https://supabase.com/docs/guides/getting-started/quickstarts/flutter)
